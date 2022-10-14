@@ -15,9 +15,8 @@
     list-style-type: none;
 }
 
-.menufruits
-    ul li:hover {
-        
+.menufruits ul li:hover {background-color: darkslategrey;
+
     }
 
 
