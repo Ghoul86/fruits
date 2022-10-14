@@ -1,0 +1,36 @@
+.menufruits {
+    background-color: grey;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    font-size: 38px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    float: right;
+    width: 50%;
+    height: 100%;
+   
+}
+
+.menufruits ul {
+    list-style-type: none;
+}
+
+.menufruits
+    ul li:hover {
+        
+    }
+
+
+.menufruits ul li {
+    padding: 80px;
+   
+}
+
+.accueil {
+    float: left;
+    background-image: url(images/all-fruits.jpg);
+    width: 10px;
+    height:10px;
+
+}
+
